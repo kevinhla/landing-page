@@ -21,6 +21,15 @@ body {
     font-weight: 900;
 }
 
+.hero-subtext{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.img-holder{
+    background-color: #808080;
+}
+
 button{
     background: #3882F6;
     border: 0px;
