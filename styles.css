@@ -15,7 +15,7 @@ body {
 
 .header-container,
 .top-container{
-    padding: 150px 200px;
+    padding: 150px 20vw;
 }
 
 
@@ -27,7 +27,7 @@ body {
 .header-container{
     display: flex;
     justify-content: space-between;
-    padding: 25px 200px;
+    padding: 25px 20vw;
 }
 
 .hero{
@@ -42,7 +42,7 @@ body {
 
 .top-container{
     display: flex;
-    gap: 30px;
+    justify-content: space-between;
     
 }
 
