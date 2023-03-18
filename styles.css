@@ -120,6 +120,33 @@ body {
     font-weight: 600;
 }
 
+.bottom-container{
+    background-color: #3882F6;
+    padding: 50px;
+    margin: 100px 200px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+    gap: 150px;
+}
+
+.action-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.action-text{
+    color:#E5E7EB;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.subtext{
+    color:#E5E7EB;
+    font-size: 20px;
+}
+
 button{
     background: #3882F6;
     border: 0px;
@@ -132,6 +159,10 @@ button{
     width: 130px;
     margin: 10px 0;
     
+}
+
+.inverted{
+    border: 2px solid #ffffff;
 }
 
 ul {
