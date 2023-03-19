@@ -147,6 +147,13 @@ body {
     font-size: 20px;
 }
 
+.copyright{
+    color:#E5E7EB;
+    font-size: 20px;
+    text-align: center;
+    padding: 40px 0;
+}
+
 button{
     background: #3882F6;
     border: 0px;
